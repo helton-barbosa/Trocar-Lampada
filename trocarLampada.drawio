@@ -1,58 +1,58 @@
-<mxfile host="app.diagrams.net" modified="2022-09-23T12:40:36.119Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.42" etag="8fjkpPvrWMkTZVgVzefU" version="20.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-23T13:08:43.391Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.42" etag="oV3IyvVuKfZiv5mL6LWm" version="20.3.6" type="github">
   <diagram id="IQGYvlecS8xtpJGzSTE_" name="Page-1">
-    <mxGraphModel dx="781" dy="730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="781" dy="730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#F1FAEE" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="OBEktxABcL83o_LKNf6v-1" value="INÍCIO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OBEktxABcL83o_LKNf6v-1" value="INÍCIO" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="60" y="30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OBEktxABcL83o_LKNf6v-2" value="Acionar o interruptor da lâmpada" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OBEktxABcL83o_LKNf6v-2" value="Acionar o interruptor da lâmpada" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="60" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OBEktxABcL83o_LKNf6v-3" value="A lâmpada acendeu?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OBEktxABcL83o_LKNf6v-3" value="A lâmpada acendeu?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="80" y="300" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="OBEktxABcL83o_LKNf6v-4" value="FIM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OBEktxABcL83o_LKNf6v-4" value="FIM" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="60" y="490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OBEktxABcL83o_LKNf6v-5" value="Trocar a lâmpada" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+        <mxCell id="OBEktxABcL83o_LKNf6v-5" value="Trocar a lâmpada" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="250" y="270" width="300" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="OBEktxABcL83o_LKNf6v-6" value="Pegar uma escada e posicionar debaixo da lâmpada" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="OBEktxABcL83o_LKNf6v-5">
+        <mxCell id="OBEktxABcL83o_LKNf6v-6" value="Pegar uma escada e posicionar debaixo da lâmpada" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontColor=#1D3557;" vertex="1" parent="OBEktxABcL83o_LKNf6v-5">
           <mxGeometry y="30" width="300" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OBEktxABcL83o_LKNf6v-7" value="Subir na escada e retirar a lâmpada com defeito" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="OBEktxABcL83o_LKNf6v-5">
+        <mxCell id="OBEktxABcL83o_LKNf6v-7" value="Subir na escada e retirar a lâmpada com defeito" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontColor=#1D3557;" vertex="1" parent="OBEktxABcL83o_LKNf6v-5">
           <mxGeometry y="60" width="300" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OBEktxABcL83o_LKNf6v-8" value="Subir na escada e colocar lâmpada nova" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="OBEktxABcL83o_LKNf6v-5">
+        <mxCell id="OBEktxABcL83o_LKNf6v-8" value="Subir na escada e colocar lâmpada nova" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontColor=#1D3557;" vertex="1" parent="OBEktxABcL83o_LKNf6v-5">
           <mxGeometry y="90" width="300" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OBEktxABcL83o_LKNf6v-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OBEktxABcL83o_LKNf6v-1" target="OBEktxABcL83o_LKNf6v-2">
+        <mxCell id="OBEktxABcL83o_LKNf6v-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;" edge="1" parent="1" source="OBEktxABcL83o_LKNf6v-1" target="OBEktxABcL83o_LKNf6v-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="190" y="110" as="sourcePoint" />
             <mxPoint x="260" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OBEktxABcL83o_LKNf6v-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OBEktxABcL83o_LKNf6v-2" target="OBEktxABcL83o_LKNf6v-3">
+        <mxCell id="OBEktxABcL83o_LKNf6v-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;" edge="1" parent="1" source="OBEktxABcL83o_LKNf6v-2" target="OBEktxABcL83o_LKNf6v-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="160" y="280" as="sourcePoint" />
             <mxPoint x="430" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OBEktxABcL83o_LKNf6v-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="OBEktxABcL83o_LKNf6v-3">
+        <mxCell id="OBEktxABcL83o_LKNf6v-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;" edge="1" parent="1" source="OBEktxABcL83o_LKNf6v-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="80" y="460" as="sourcePoint" />
             <mxPoint x="250" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OBEktxABcL83o_LKNf6v-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OBEktxABcL83o_LKNf6v-3" target="OBEktxABcL83o_LKNf6v-4">
+        <mxCell id="OBEktxABcL83o_LKNf6v-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;" edge="1" parent="1" source="OBEktxABcL83o_LKNf6v-3" target="OBEktxABcL83o_LKNf6v-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="90" y="470" as="sourcePoint" />
             <mxPoint x="140" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OBEktxABcL83o_LKNf6v-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="OBEktxABcL83o_LKNf6v-13" value="" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="550" y="327" as="sourcePoint" />
             <mxPoint x="120" y="130" as="targetPoint" />
@@ -62,10 +62,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="OBEktxABcL83o_LKNf6v-14" value="Não" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="OBEktxABcL83o_LKNf6v-14" value="Não" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="170" y="300" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OBEktxABcL83o_LKNf6v-15" value="Sim" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="OBEktxABcL83o_LKNf6v-15" value="Sim" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="130" y="420" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
